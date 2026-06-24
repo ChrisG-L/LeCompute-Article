@@ -33,5 +33,6 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Christophe Gerardin
 
+- **24 juin 2026**, [SSM et Mamba : le pari de supprimer le KV cache](https://lecompute.fr/runtimes/ssm-mamba-hybrides/)
 - **21 juin 2026**, [GLM-5.2 : le jour où la frontière a changé de mains](https://lecompute.fr/couts/glm-5-2-open-weight-souverainete/)
 - **18 juin 2026**, [Gemma : le KV cache qui cesse de suivre le contexte](https://lecompute.fr/runtimes/gemma-attention-locale-globale/)

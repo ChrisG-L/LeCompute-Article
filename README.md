@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **30 juin 2026**, [Puce « sous 1 nm » d'IBM : le nanostack expliqué, sans le marketing](https://lecompute.fr/silicon/ibm-nanostack-sub-1nm/)
 - **16 juin 2026**, [CUDA Tile : programmer le GPU à la tuile, plus au thread](https://lecompute.fr/kernel-perf/cuda-tile-cutile-programmation-tuile/)
 - **15 juin 2026**, [Servir DeepSeek-V4 sans casser l'exactitude](https://lecompute.fr/runtimes/servir-deepseek-v4-exactitude/)
 - **12 juin 2026**, [sched_ext : écrire l'ordonnanceur de votre inférence en eBPF](https://lecompute.fr/kernel-perf/sched-ext-ordonnanceur-inference/)

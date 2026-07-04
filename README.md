@@ -6,6 +6,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 ## Killian Pluenet
 
 - **4 juillet 2026**, [Combien coûte un serveur GPU pour LLM : achat, énergie, amortissement](https://lecompute.fr/couts/cout-serveur-gpu-llm/)
+- **4 juillet 2026**, [Quel GPU pour un LLM en 2026 : les trois questions à poser avant la fiche technique](https://lecompute.fr/silicon/quel-gpu-pour-un-llm/)
 - **30 juin 2026**, [Puce « sous 1 nm » d'IBM : le nanostack expliqué, sans le marketing](https://lecompute.fr/silicon/ibm-nanostack-sub-1nm/)
 - **16 juin 2026**, [CUDA Tile : programmer le GPU à la tuile, plus au thread](https://lecompute.fr/kernel-perf/cuda-tile-cutile-programmation-tuile/)
 - **15 juin 2026**, [Servir DeepSeek-V4 sans casser l'exactitude](https://lecompute.fr/runtimes/servir-deepseek-v4-exactitude/)

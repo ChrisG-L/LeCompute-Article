@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **4 juillet 2026**, [Combien coûte un serveur GPU pour LLM : achat, énergie, amortissement](https://lecompute.fr/couts/cout-serveur-gpu-llm/)
 - **30 juin 2026**, [Puce « sous 1 nm » d'IBM : le nanostack expliqué, sans le marketing](https://lecompute.fr/silicon/ibm-nanostack-sub-1nm/)
 - **16 juin 2026**, [CUDA Tile : programmer le GPU à la tuile, plus au thread](https://lecompute.fr/kernel-perf/cuda-tile-cutile-programmation-tuile/)
 - **15 juin 2026**, [Servir DeepSeek-V4 sans casser l'exactitude](https://lecompute.fr/runtimes/servir-deepseek-v4-exactitude/)
@@ -17,7 +18,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 - **20 mai 2026**, [Le KV cache n'est plus un effet de bord : c'est l'objet central du serving en 2026](https://lecompute.fr/runtimes/kv-cache-objet-central-serving/)
 - **17 mai 2026**, [Vera Rubin : la fin de l'inférence GPU homogène](https://lecompute.fr/silicon/vera-rubin-disaggregation-inference/)
 - **14 mai 2026**, [Coût d'inférence LLM : API, GPU cloud ou auto-hébergement ?](https://lecompute.fr/couts/cout-inference-llm/)
-- **12 mai 2026**, [H100 vs B100 : analyse microarchitecturale et performance réelle en inférence LLM](https://lecompute.fr/silicon/h100-vs-b100/)
+- **12 mai 2026**, [H100 vs B200 : analyse microarchitecturale et performance réelle en inférence LLM](https://lecompute.fr/silicon/h100-vs-b100/)
 - **10 mai 2026**, [GPU cloud en France et en Europe : où louer H100, H200 et Blackwell](https://lecompute.fr/couts/gpu-cloud-france-europe/)
 - **8 mai 2026**, [RTX 5090 vs H100 : quelle carte pour un LLM en local ?](https://lecompute.fr/silicon/rtx-5090-vs-h100-llm-local/)
 - **6 mai 2026**, [HBM et NVLink : pourquoi les LLM sont limités par la mémoire](https://lecompute.fr/silicon/hbm-nvlink-bande-passante-llm/)

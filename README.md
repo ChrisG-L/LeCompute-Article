@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **8 juillet 2026**, [DGX Spark vs RTX 5090 : capacité ou vitesse, le choix qui décide de votre LLM local](https://lecompute.fr/silicon/dgx-spark-vs-rtx-5090/)
 - **4 juillet 2026**, [Quel GPU pour un LLM en 2026 : les trois questions à poser avant la fiche technique](https://lecompute.fr/silicon/quel-gpu-pour-un-llm/)
 - **2 juillet 2026**, [Combien coûte un serveur GPU pour LLM : achat, énergie, amortissement](https://lecompute.fr/couts/cout-serveur-gpu-llm/)
 - **30 juin 2026**, [Puce « sous 1 nm » d'IBM : le nanostack expliqué, sans le marketing](https://lecompute.fr/silicon/ibm-nanostack-sub-1nm/)

@@ -37,6 +37,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Christophe Gerardin
 
+- **13 juillet 2026**, [Personne ne sait plus mesurer les agents de codage](https://lecompute.fr/runtimes/crise-mesure-agents-codage/)
 - **11 juillet 2026**, [GPT-5.6 et la fusion Codex : anatomie de la remontada d'OpenAI](https://lecompute.fr/couts/gpt-5-6-codex-remontada/)
 - **27 juin 2026**, [Réduire la VRAM et le calcul d'un LLM : la carte des techniques](https://lecompute.fr/runtimes/reduire-vram-calcul-llm/)
 - **24 juin 2026**, [SSM et Mamba : le pari de supprimer le KV cache](https://lecompute.fr/runtimes/ssm-mamba-hybrides/)

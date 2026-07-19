@@ -37,6 +37,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Christophe Gerardin
 
+- **19 juillet 2026**, [GGUF, GPTQ, AWQ : anatomie de trois façons de compresser un LLM](https://lecompute.fr/runtimes/gguf-gptq-awq-anatomie/)
 - **16 juillet 2026**, [Stargate, Spud et abonnements : le levier compute de la remontada d'OpenAI](https://lecompute.fr/couts/levier-compute-remontada/)
 - **13 juillet 2026**, [SWE-Bench Pro désavoué : peut-on encore mesurer les agents de codage ?](https://lecompute.fr/runtimes/crise-mesure-agents-codage/)
 - **11 juillet 2026**, [GPT-5.6 et la fusion Codex : anatomie de la remontada d'OpenAI](https://lecompute.fr/couts/gpt-5-6-codex-remontada/)

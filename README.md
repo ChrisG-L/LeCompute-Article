@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **20 juillet 2026**, [FastFlowLM rejoint AMD : le NPU Ryzen AI devient crédible pour les LLM locaux](https://lecompute.fr/edge-ai/fastflowlm-amd-npu-ryzen-ai/)
 - **8 juillet 2026**, [DGX Spark vs RTX 5090 : capacité ou vitesse, le choix qui décide de votre LLM local](https://lecompute.fr/silicon/dgx-spark-vs-rtx-5090/)
 - **4 juillet 2026**, [Quel GPU pour un LLM en 2026 : les trois questions à poser avant la fiche technique](https://lecompute.fr/silicon/quel-gpu-pour-un-llm/)
 - **2 juillet 2026**, [Combien coûte un serveur GPU pour LLM : achat, énergie, amortissement](https://lecompute.fr/couts/cout-serveur-gpu-llm/)

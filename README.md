@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **28 juillet 2026**, [AMD Infera face à Dynamo et llm-d : le routeur prend le contrôle](https://lecompute.fr/runtimes/infera-dynamo-llm-d-orchestration/)
 - **24 juillet 2026**, [AMD MI455X contre NVIDIA Rubin : la mémoire suffit-elle à battre NVLink ?](https://lecompute.fr/silicon/mi455x-vs-nvidia-rubin/)
 - **20 juillet 2026**, [FastFlowLM rejoint AMD : le NPU Ryzen AI devient crédible pour les LLM locaux](https://lecompute.fr/edge-ai/fastflowlm-amd-npu-ryzen-ai/)
 - **8 juillet 2026**, [DGX Spark vs RTX 5090 : capacité ou vitesse, le choix qui décide de votre LLM local](https://lecompute.fr/silicon/dgx-spark-vs-rtx-5090/)

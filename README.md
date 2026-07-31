@@ -40,6 +40,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Christophe Gerardin
 
+- **31 juillet 2026**, [Ce qui empêche un modèle de conduite de traverser une frontière](https://lecompute.fr/couts/conduite-frontiere/)
 - **19 juillet 2026**, [GGUF, GPTQ, AWQ : anatomie de trois façons de compresser un LLM](https://lecompute.fr/runtimes/gguf-gptq-awq-anatomie/)
 - **16 juillet 2026**, [Stargate, Spud et abonnements : le levier compute de la remontada d'OpenAI](https://lecompute.fr/couts/levier-compute-remontada/)
 - **13 juillet 2026**, [SWE-Bench Pro désavoué : peut-on encore mesurer les agents de codage ?](https://lecompute.fr/runtimes/crise-mesure-agents-codage/)

@@ -40,6 +40,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Christophe Gerardin
 
+- **6 août 2026**, [Latence contre latence : ce que votre scheduler règle vraiment](https://lecompute.fr/runtimes/latence-contre-latence/)
 - **3 août 2026**, [MoE : à partir de quel batch le réseau prend-il le dessus ?](https://lecompute.fr/runtimes/moe-batch-reseau/)
 - **31 juillet 2026**, [Ce qui empêche un modèle de conduite de traverser une frontière](https://lecompute.fr/couts/conduite-frontiere/)
 - **19 juillet 2026**, [GGUF, GPTQ, AWQ : anatomie de trois façons de compresser un LLM](https://lecompute.fr/runtimes/gguf-gptq-awq-anatomie/)

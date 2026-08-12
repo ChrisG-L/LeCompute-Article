@@ -5,6 +5,8 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **12 août 2026**, [RTX Spark sous Windows : CUDA est natif, la pile LLM ne l'est pas encore](https://lecompute.fr/silicon/rtx-spark-windows-pile-llm/)
+- **9 août 2026**, [Kimi K3 ouvre 2,8 T de paramètres, pas un modèle local](https://lecompute.fr/runtimes/kimi-k3-open-weights-serving/)
 - **28 juillet 2026**, [AMD Infera face à Dynamo et llm-d : le routeur prend le contrôle](https://lecompute.fr/runtimes/infera-dynamo-llm-d-orchestration/)
 - **24 juillet 2026**, [AMD MI455X contre NVIDIA Rubin : la mémoire suffit-elle à battre NVLink ?](https://lecompute.fr/silicon/mi455x-vs-nvidia-rubin/)
 - **20 juillet 2026**, [FastFlowLM rejoint AMD : le NPU Ryzen AI devient crédible pour les LLM locaux](https://lecompute.fr/edge-ai/fastflowlm-amd-npu-ryzen-ai/)

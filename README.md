@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **15 août 2026**, [vLLM 0.27 : le KV cache devient pair-à-pair](https://lecompute.fr/runtimes/vllm-0-27-kv-cache-p2p/)
 - **12 août 2026**, [RTX Spark sous Windows : CUDA est natif, la pile LLM ne l'est pas encore](https://lecompute.fr/silicon/rtx-spark-windows-pile-llm/)
 - **9 août 2026**, [Kimi K3 ouvre 2,8 T de paramètres, pas un modèle local](https://lecompute.fr/runtimes/kimi-k3-open-weights-serving/)
 - **28 juillet 2026**, [AMD Infera face à Dynamo et llm-d : le routeur prend le contrôle](https://lecompute.fr/runtimes/infera-dynamo-llm-d-orchestration/)

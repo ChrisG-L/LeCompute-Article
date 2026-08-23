@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **23 août 2026**, [DWDP pour les MoE : déplacer les poids plutôt que les tokens](https://lecompute.fr/runtimes/dwdp-moe-poids-tokens/)
 - **21 août 2026**, [Mac Studio M3 Ultra limité à 96 Go : ce qui change pour les LLM locaux](https://lecompute.fr/silicon/mac-studio-m3-ultra-96-go-llm-local/)
 - **18 août 2026**, [RTX PRO 6000 ou trois RTX 5090 : 96 Go ne font pas une mémoire unique](https://lecompute.fr/silicon/rtx-pro-6000-ou-trois-rtx-5090/)
 - **15 août 2026**, [vLLM 0.27 : le KV cache devient pair-à-pair](https://lecompute.fr/runtimes/vllm-0-27-kv-cache-p2p/)

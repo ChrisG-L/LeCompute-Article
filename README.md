@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **2 septembre 2026**, [BlueField-4 face à Pensando Salina : le DPU entre dans le chemin de l'inférence](https://lecompute.fr/silicon/bluefield-4-pensando-salina-dpu-inference/)
 - **31 août 2026**, [MLPerf Endpoints : peut-on enfin comparer les fournisseurs d'inférence ?](https://lecompute.fr/couts/mlperf-endpoints-comparer-inference/)
 - **28 août 2026**, [MLPerf RAG mesure enfin toute la chaîne, pas encore le service](https://lecompute.fr/runtimes/mlperf-rag-benchmark-end-to-end/)
 - **25 août 2026**, [UALink 2.0 contre NVLink 6 : quand le réseau calcule l'all-reduce](https://lecompute.fr/silicon/ualink-2-vs-nvlink-6-in-network-compute/)

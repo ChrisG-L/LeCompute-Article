@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **5 septembre 2026**, [Ryzen AI Halo face au DGX Spark : ce que 128 Go ne disent pas](https://lecompute.fr/silicon/ryzen-ai-halo-vs-dgx-spark/)
 - **2 septembre 2026**, [BlueField-4 face à Pensando Salina : le DPU entre dans le chemin de l'inférence](https://lecompute.fr/silicon/bluefield-4-pensando-salina-dpu-inference/)
 - **31 août 2026**, [MLPerf Endpoints : peut-on enfin comparer les fournisseurs d'inférence ?](https://lecompute.fr/couts/mlperf-endpoints-comparer-inference/)
 - **28 août 2026**, [MLPerf RAG mesure enfin toute la chaîne, pas encore le service](https://lecompute.fr/runtimes/mlperf-rag-benchmark-end-to-end/)

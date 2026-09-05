@@ -27,7 +27,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 - **15 juin 2026**, [Servir DeepSeek-V4 sans casser l'exactitude](https://lecompute.fr/runtimes/servir-deepseek-v4-exactitude/)
 - **12 juin 2026**, [sched_ext : écrire l'ordonnanceur de votre inférence en eBPF](https://lecompute.fr/kernel-perf/sched-ext-ordonnanceur-inference/)
 - **9 juin 2026**, [TorchTPU, XLA, JAX : comment Google attaque le verrou logiciel de NVIDIA](https://lecompute.fr/silicon/torchtpu-jax-xla-vllm-tpu/)
-- **5 juin 2026**, [RTX Spark : le cousin Windows du DGX Spark, et le mur des 273 Go/s](https://lecompute.fr/silicon/rtx-spark-vs-dgx-spark/)
+- **5 juin 2026**, [RTX Spark vs DGX Spark : caractéristiques confirmées et limites mémoire](https://lecompute.fr/silicon/rtx-spark-vs-dgx-spark/)
 - **1 juin 2026**, [Combien de VRAM pour faire tourner un LLM en local ?](https://lecompute.fr/silicon/combien-de-vram-pour-un-llm/)
 - **27 mai 2026**, [FP4 n'existe pas : il existe des FP4, et chaque runtime choisit son dialecte](https://lecompute.fr/runtimes/fp4-nvfp4-mxfp4-dialectes-runtime/)
 - **24 mai 2026**, [La disaggregation prefill/decode sort du papier : état des lieux mai 2026](https://lecompute.fr/runtimes/disaggregation-prefill-decode-production/)

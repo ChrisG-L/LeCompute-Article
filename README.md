@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **13 septembre 2026**, [Décodage spéculatif : quand un petit modèle accélère votre LLM](https://lecompute.fr/runtimes/decodage-speculatif-llm-local/)
 - **11 septembre 2026**, [Threadripper Halo Station vs DGX Station : comment comparer leur mémoire ?](https://lecompute.fr/silicon/threadripper-halo-station-vs-dgx-station/)
 - **8 septembre 2026**, [NVIDIA PAIR : quand plusieurs machines accélèrent l’IA locale](https://lecompute.fr/runtimes/nvidia-pair-inference-locale/)
 - **5 septembre 2026**, [Ryzen AI Halo face au DGX Spark : ce que 128 Go ne disent pas](https://lecompute.fr/silicon/ryzen-ai-halo-vs-dgx-spark/)

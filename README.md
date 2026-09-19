@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **17 septembre 2026**, [800 V continu : pourquoi les datacenters IA changent leur alimentation](https://lecompute.fr/silicon/alimentation-800-v-continu-datacenter-ia/)
 - **13 septembre 2026**, [Décodage spéculatif : quand un petit modèle accélère votre LLM](https://lecompute.fr/runtimes/decodage-speculatif-llm-local/)
 - **11 septembre 2026**, [Threadripper Halo Station vs DGX Station : comment comparer leur mémoire ?](https://lecompute.fr/silicon/threadripper-halo-station-vs-dgx-station/)
 - **8 septembre 2026**, [NVIDIA PAIR : quand plusieurs machines accélèrent l’IA locale](https://lecompute.fr/runtimes/nvidia-pair-inference-locale/)

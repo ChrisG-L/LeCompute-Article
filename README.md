@@ -56,6 +56,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Christophe Gerardin
 
+- **22 septembre 2026**, [Face à NVIDIA, Huawei mise sur la machine entière](https://lecompute.fr/silicon/huawei-atlas-960e-systeme/)
 - **11 août 2026**, [La décision d'une voiture autonome n'a pas de temps réel : qui la porte ?](https://lecompute.fr/kernel-perf/deadline-temps-reel-ia-conduite/)
 - **6 août 2026**, [Latence contre latence : ce que votre scheduler règle vraiment](https://lecompute.fr/runtimes/latence-contre-latence/)
 - **3 août 2026**, [MoE : à partir de quel batch le réseau prend-il le dessus ?](https://lecompute.fr/runtimes/moe-batch-reseau/)

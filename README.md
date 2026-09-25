@@ -56,6 +56,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Christophe Gerardin
 
+- **25 septembre 2026**, [NVIDIA veut racheter Hugging Face : qui contrôlera la distribution de l’IA ouverte ?](https://lecompute.fr/couts/nvidia-hugging-face-distribution-ia/)
 - **22 septembre 2026**, [Face à NVIDIA, Huawei mise sur la machine entière](https://lecompute.fr/silicon/huawei-atlas-960e-systeme/)
 - **11 août 2026**, [La décision d'une voiture autonome n'a pas de temps réel : qui la porte ?](https://lecompute.fr/kernel-perf/deadline-temps-reel-ia-conduite/)
 - **6 août 2026**, [Latence contre latence : ce que votre scheduler règle vraiment](https://lecompute.fr/runtimes/latence-contre-latence/)

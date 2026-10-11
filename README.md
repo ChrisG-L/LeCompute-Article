@@ -56,6 +56,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Christophe Gerardin
 
+- **11 octobre 2026**, [FlashAttention-4 : pourquoi accélérer les multiplications ne suffit plus](https://lecompute.fr/kernel-perf/flashattention-4-limites-calcul-matriciel/)
 - **7 octobre 2026**, [AMD attaque NVIDIA sur les CPU : les agents IA changent la bataille](https://lecompute.fr/silicon/amd-nvidia-cpu-agents/)
 - **28 septembre 2026**, [Google et NVIDIA veulent brancher plus de datacenters en promettant de moduler leur consommation](https://lecompute.fr/couts/google-nvidia-datacenters-flexibilite-electrique/)
 - **25 septembre 2026**, [NVIDIA veut racheter Hugging Face : qui contrôlera la distribution de l’IA ouverte ?](https://lecompute.fr/couts/nvidia-hugging-face-distribution-ia/)

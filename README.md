@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **15 octobre 2026**, [Scion : pourquoi Anthropic a remplacé Git pour ses agents](https://lecompute.fr/kernel-perf/scion-anthropic-git-agents/)
 - **20 septembre 2026**, [Jev : pourquoi générer du texte quand votre application attend une décision ?](https://lecompute.fr/runtimes/jev-typesafe-decisions-ia/)
 - **17 septembre 2026**, [800 V continu : pourquoi les datacenters IA changent leur alimentation](https://lecompute.fr/silicon/alimentation-800-v-continu-datacenter-ia/)
 - **13 septembre 2026**, [Décodage spéculatif : quand un petit modèle accélère votre LLM](https://lecompute.fr/runtimes/decodage-speculatif-llm-local/)
@@ -56,6 +57,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Christophe Gerardin
 
+- **15 octobre 2026**, [Alibaba veut fournir la puce, le modèle et le cloud : que restera-t-il à choisir ?](https://lecompute.fr/couts/alibaba-puce-modele-cloud-choix/)
 - **11 octobre 2026**, [FlashAttention-4 : pourquoi accélérer les multiplications ne suffit plus](https://lecompute.fr/kernel-perf/flashattention-4-limites-calcul-matriciel/)
 - **7 octobre 2026**, [AMD attaque NVIDIA sur les CPU : les agents IA changent la bataille](https://lecompute.fr/silicon/amd-nvidia-cpu-agents/)
 - **28 septembre 2026**, [Google et NVIDIA veulent brancher plus de datacenters en promettant de moduler leur consommation](https://lecompute.fr/couts/google-nvidia-datacenters-flexibilite-electrique/)

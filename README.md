@@ -5,7 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
-- **1 novembre 2026**, [NVIDIA Minerva : comprendre ce qui ralentit un cluster IA](https://lecompute.fr/kernel-perf/nvidia-minerva-observabilite-cluster-ia/)
+- **28 octobre 2026**, [NVIDIA Minerva : comprendre ce qui ralentit un cluster IA](https://lecompute.fr/kernel-perf/nvidia-minerva-observabilite-cluster-ia/)
 - **25 octobre 2026**, [Liquid AI LFM3 : ce que ce petit modèle peut faire pour vos agents locaux](https://lecompute.fr/edge-ai/liquid-ai-lfm3-agents-locaux/)
 - **22 octobre 2026**, [Flapping Airplanes : de ThunderKittens aux mégakernels soutenus par NVIDIA](https://lecompute.fr/kernel-perf/flapping-airplanes-thunderkittens-megakernels/)
 - **18 octobre 2026**, [Scion : pourquoi Anthropic a remplacé Git pour ses agents](https://lecompute.fr/kernel-perf/scion-anthropic-git-agents/)

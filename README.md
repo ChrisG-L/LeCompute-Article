@@ -20,7 +20,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 - **28 août 2026**, [MLPerf RAG mesure enfin toute la chaîne, pas encore le service](https://lecompute.fr/runtimes/mlperf-rag-benchmark-end-to-end/)
 - **25 août 2026**, [UALink 2.0 contre NVLink 6 : quand le réseau calcule l'all-reduce](https://lecompute.fr/silicon/ualink-2-vs-nvlink-6-in-network-compute/)
 - **23 août 2026**, [DWDP pour les MoE : déplacer les poids plutôt que les tokens](https://lecompute.fr/runtimes/dwdp-moe-poids-tokens/)
-- **21 août 2026**, [Mac Studio M3 Ultra limité à 96 Go : ce qui change pour les LLM locaux](https://lecompute.fr/silicon/mac-studio-m3-ultra-96-go-llm-local/)
+- **21 août 2026**, [Mac Studio M3 Ultra 96 Go : quels LLM locaux tiennent encore ?](https://lecompute.fr/silicon/mac-studio-m3-ultra-96-go-llm-local/)
 - **18 août 2026**, [RTX PRO 6000 ou trois RTX 5090 : 96 Go ne font pas une mémoire unique](https://lecompute.fr/silicon/rtx-pro-6000-ou-trois-rtx-5090/)
 - **15 août 2026**, [vLLM 0.27 : le KV cache devient pair-à-pair](https://lecompute.fr/runtimes/vllm-0-27-kv-cache-p2p/)
 - **12 août 2026**, [RTX Spark sous Windows : CUDA est natif, la pile LLM ne l'est pas encore](https://lecompute.fr/silicon/rtx-spark-windows-pile-llm/)

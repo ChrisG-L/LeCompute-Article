@@ -60,6 +60,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Christophe Gerardin
 
+- **5 novembre 2026**, [PsiQuantum mise sur la lumière pour reconnecter les GPU](https://lecompute.fr/silicon/psiquantum-reseaux-optiques-ia/)
 - **3 novembre 2026**, [Google fait tourner une IA en orbite. Peut-on y faire tourner un datacenter ?](https://lecompute.fr/couts/google-suncatcher-ia-orbite/)
 - **1 novembre 2026**, [DeepSeek ouvre DeepInfer : les poids ne suffisent pas](https://lecompute.fr/runtimes/deepseek-deepinfer-moteur-service/)
 - **15 octobre 2026**, [Alibaba veut fournir la puce, le modèle et le cloud : que restera-t-il à choisir ?](https://lecompute.fr/couts/alibaba-puce-modele-cloud-choix/)

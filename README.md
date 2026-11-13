@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **11 novembre 2026**, [EmbeddingGemma 2 : chercher dans ses fichiers sans cloud](https://lecompute.fr/edge-ai/embeddinggemma-2-recherche-multimodale-locale/)
 - **8 novembre 2026**, [Entraîner un MoE sur cluster : pourquoi les GPU attendent](https://lecompute.fr/runtimes/entrainer-moe-cluster-routeur-equilibrage/)
 - **28 octobre 2026**, [NVIDIA Minerva : comprendre ce qui ralentit un cluster IA](https://lecompute.fr/kernel-perf/nvidia-minerva-observabilite-cluster-ia/)
 - **25 octobre 2026**, [LFM3 face à Qwen : quel intérêt sur téléphone et en embarqué ?](https://lecompute.fr/edge-ai/liquid-ai-lfm3-agents-locaux/)

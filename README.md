@@ -5,6 +5,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Killian Pluenet
 
+- **24 novembre 2026**, [Comment Meta diversifie son infrastructure IA avec AMD et les TPU de Google](https://lecompute.fr/silicon/meta-amd-google-tpu-infrastructure-ia/)
 - **11 novembre 2026**, [EmbeddingGemma 2 : chercher dans ses fichiers sans cloud](https://lecompute.fr/edge-ai/embeddinggemma-2-recherche-multimodale-locale/)
 - **8 novembre 2026**, [Entraîner un MoE sur cluster : pourquoi les GPU attendent](https://lecompute.fr/runtimes/entrainer-moe-cluster-routeur-equilibrage/)
 - **28 octobre 2026**, [NVIDIA Minerva : comprendre ce qui ralentit un cluster IA](https://lecompute.fr/kernel-perf/nvidia-minerva-observabilite-cluster-ia/)

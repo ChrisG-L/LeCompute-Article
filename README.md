@@ -63,6 +63,7 @@ Annuaire des articles publiés sur [LeCompute](https://lecompute.fr/).
 
 ## Christophe Gerardin
 
+- **27 novembre 2026**, [Et si un LLM décompressait ses poids au moment de les lire ?](https://lecompute.fr/edge-ai/lazyweights-llm-embarque-decompression-poids/)
 - **21 novembre 2026**, [AMD MEXT peut-il réduire la facture de RAM sans ralentir les tâches ?](https://lecompute.fr/couts/amd-mext-ssd-dram-cout-par-tache/)
 - **5 novembre 2026**, [PsiQuantum mise sur la lumière pour reconnecter les GPU](https://lecompute.fr/silicon/psiquantum-reseaux-optiques-ia/)
 - **3 novembre 2026**, [Google fait tourner une IA en orbite. Peut-on y faire tourner un datacenter ?](https://lecompute.fr/couts/google-suncatcher-ia-orbite/)
